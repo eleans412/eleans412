@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Here's a little about me!
 
 <!--
 **eleans412/eleans412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on finishing up a Computer Science/Arts (Criminology and International Politics) Degree and helping people out over the phone with all things IT
+- 🌱 I’m currently learning: SQL, and all things Endpoint Management
+- 💬 Ask me about Web Development, Azure, Web Application Testing, Security Engineering...
+- 📫 How to reach me:
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/ea04)
+
