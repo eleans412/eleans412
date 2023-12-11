@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: SQL, and all things Endpoint Management
 - 💬 Ask me about Web Development, Azure, Web Application Testing, Security Engineering...
 - 📫 How to reach me:
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://au.linkedin.com/in/ea04)
 
