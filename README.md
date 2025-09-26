@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on finishing up a Computer Science/Arts (Criminology and International Politics) Degree and helping people out over the phone with all things IT
-- 🌱 I’m currently learning: SQL, and all things Endpoint Management
+- 🔭 I’m currently spending my time responding to different incs, alerts and fun stuff like that
+- 🌱 I’m currently learning: MS Defender, Pentesting, and all things Endpoint Management
 - 💬 Ask me about Web Development, Azure, Web Application Testing, Security Engineering...
 - 📫 How to reach me:
 
